@@ -7,7 +7,7 @@ import javax.persistence.Id;
 
 @Entity
 public class Rectangle {
-//test
+//teeest
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
